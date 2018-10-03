@@ -1,6 +1,6 @@
 This repository contains all the projects I completed with DataQuest.io:
 
-- .html files are condensed (cuts out any excessively large output cells) versions of my Jupyter notebooks hat can easily be opened in the browser. 
+- .html files are condensed (cuts out any excessively large output cells) versions of my Jupyter notebooks that can easily be opened in the browser. 
    
 - .ipynb files are the full version of the project and can be opened in Jupyter.
 
